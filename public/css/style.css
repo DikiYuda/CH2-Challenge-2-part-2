@@ -8,8 +8,8 @@
 
 /* button */
 .btn-utama {
-    background-color: #5CB85F;
-    color: #ffff;
+    background-color: #5CB85F !important; 
+    color: #ffff !important;
     border-radius: 0;
 }
 
